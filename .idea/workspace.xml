@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be58b704-805e-4db5-b8c4-35728933f38f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/mypage/templates/mypage/mypage_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/mypage/templates/mypage/mypage_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/mypage/templates/mypage/mypage_order_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/mypage/templates/mypage/mypage_order_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/mypage/templates/mypage/mypage_order_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/mypage/templates/mypage/mypage_order_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/shop/templates/shop/product_all.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/shop/templates/shop/product_all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/shop/templates/shop/qna_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/shop/templates/shop/qna_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/shop/templates/shop/review_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/shop/templates/shop/review_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_shopping_IoT (2)/static_data/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT (2)/static_data/static/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_shopping_IoT/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_shopping_IoT/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/새 폴더/Web_shopping_IoT/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/새 폴더/Web_shopping_IoT/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
