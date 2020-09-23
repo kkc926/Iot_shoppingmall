@@ -1,0 +1,30 @@
+{% extends 'base2.html' %}
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+{% for order in orders %}
+<p>주문번호: {{order.id}}</p>
+{% for order_info in order_info_set %}
+{% if order_info.order_id == order.id %}
+<p>제품명: {{order_info.product.p_name}}</p>
+<p>가격: {{order_info.product.price}}</p>
+<p>수량: {{order_info.quantity}}</p>
+<p>총액: {{order_info.sub_total}}</p>
+<br>
+{% endif %}
+{% endfor %}
+합계: {{order.total_price}}
+<br><br><br>
+{% endfor %}
+
+</body>
+</html>
+
+{% endblock %}
